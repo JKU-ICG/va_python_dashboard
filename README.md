@@ -6,21 +6,21 @@ You can either work online, via MyBinder, or locally.
 
 ### MyBinder
 
-Go to: https://mybinder.org/v2/gh/JKU-ICG/va_python_heatmap_and_scatterplot_matrix/master?urlpath=lab
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JKU-ICG/va_python_heatmap_and_scatterplot_matrix/master?urlpath=lab)
+Go to: https://mybinder.org/v2/gh/JKU-ICG/va_python_dashboard/master?urlpath=lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JKU-ICG/va_python_dashboard/master?urlpath=lab)
  and open the *template.ipynb* notebook.
 
 ### Local
 Checkout this repo and change into the folder:
 ```
-git clone https://github.com/JKU-ICG/va_python_heatmap_and_scatterplot_matrix
-cd va_python_heatmap_and_scatterplot_matrix
+git clone https://github.com/JKU-ICG/va_python_dashboard
+cd va_python_dashboard
 ```
 
 You can reuse the conda environment from the tutorial:
 ```
-conda create --name va_choropleth_map
-conda activate va_choropleth_map
+conda create --name va_dashboard
+conda activate va_dashboard
 conda install -c conda-forge --yes --file requirements.txt
 ```
 

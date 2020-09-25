@@ -6,7 +6,6 @@ matplotlib
 seaborn
 altair
 vega
-vega_datasets
 json
 plotly
 ipywidgets
