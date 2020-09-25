@@ -17,12 +17,13 @@ git clone https://github.com/JKU-ICG/va_python_dashboard
 cd va_python_dashboard
 ```
 
-You can reuse the conda environment from the tutorial:
+Create a new environemnt and install the packages:
 ```
 conda create --name va_dashboard
 conda activate va_dashboard
 conda install -c conda-forge --yes --file requirements.txt
 ```
+Hint: For more information on Anaconca and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
 
 Then launch Jupyter Lab :
 ```
