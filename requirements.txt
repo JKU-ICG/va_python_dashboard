@@ -5,6 +5,5 @@ pandas
 matplotlib
 seaborn
 altair
-json
 plotly
 ipywidgets
