@@ -1,0 +1,12 @@
+#python dependencies
+notebook
+jupyterlab
+pandas
+matplotlib
+seaborn
+altair
+vega
+vega_datasets
+json
+plotly
+ipywidgets
