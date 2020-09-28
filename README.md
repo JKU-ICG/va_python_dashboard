@@ -42,6 +42,6 @@ You can use all or a subset of the data for the tasks. Additional data-wrangling
 
 1. Inspect the data and attributes, e.g. with [head()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html), and [dtypes](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes).
 2. Select suitable attributes and visualize them in **three** visualizations
-3. Define for for **two** of the three visualizations crossfilters that are selections in the visualizations (e.g., with [altair](https://altair-viz.github.io/user_guide/interactions.html)). You can also combine selections for the crossfiltering. 
+3. Define for **two** of the three visualizations crossfilters that are selections in the visualizations (e.g., with [altair](https://altair-viz.github.io/user_guide/interactions.html)). You can also combine selections for the crossfiltering. 
 4. Interpret the results.
 
