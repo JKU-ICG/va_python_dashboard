@@ -19,15 +19,20 @@ cd va_python_dashboard
 
 Create a new environemnt and install the packages:
 ```
-conda create --name va_dashboard
-conda activate va_dashboard
-conda install -c conda-forge --yes --file requirements.txt
+conda env create -f environment.yml
+conda activate python-tutorial
 ```
+
 Hint: For more information on Anaconca and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
+
+Optional: Install Jupyter Lab extension for ipywidgets:
+```
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+```
 
 Then launch Jupyter Lab :
 ```
-jupyter lab 
+jupyter lab
 ```
 
 Goto http://localhost:8888/ and open the *template* notebook.
