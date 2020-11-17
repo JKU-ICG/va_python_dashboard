@@ -23,7 +23,7 @@ conda env create -f environment.yml
 conda activate python-tutorial
 ```
 
-Hint: For more information on Anaconca and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
+Hint: For more information on Anaconda and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
 
 Optional: Install Jupyter Lab extension for ipywidgets:
 ```
