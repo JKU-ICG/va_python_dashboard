@@ -39,9 +39,8 @@ Goto http://localhost:8888/ and open the *template* notebook.
 
 ## Tasks
 
-Perform the following tasks.
-Then download the notebook as HTML and submit it.
-You can use all or a subset of the data for the tasks. Additional data-wrangling may be necessary.
+Perform the following tasks. You can use all or a subset of the data for the tasks. Additional data-wrangling may be necessary.
+Then download the notebook (as HTML or the notebook itself) and submit it. You may also upload the notebook, the exported html and any other necessary files in a zip archive.
 
 ### Dashboard
 
